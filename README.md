@@ -35,3 +35,9 @@ Discovered Compounds Log: Keeps track of all the unique compounds you've success
 Responsive Design: Card sizes and layout adjust dynamically based on screen resolution.
 
 Hint System: Get a little nudge in the right direction if you're stuck!
+
+
+https://youtu.be/r9tfeCUqooY?si=ixKxIZFaNwGXVSWf
+
+
+
